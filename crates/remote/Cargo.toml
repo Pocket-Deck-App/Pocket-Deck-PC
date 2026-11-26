@@ -13,4 +13,4 @@ bytes = "1"
 
 [dev-dependencies]
 iroh = { version = "=1.4.1", default-features = false, features = ["portmapper", "tls-ring", "test-utils"] }
-iroh-relay = { version = "=1.4.1", default-features = false, features = ["server", "test-utils"] }
+iroh-relay = { version = "=1.4.2", default-features = false, features = ["server", "test-utils"] }
